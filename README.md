@@ -1,28 +1,8 @@
-# CSS Simpsons
+# Random Simpson page
 
-Drawings of The Simpsons character done using only HTML and CSS.
+This repository renders a different Simpson every time the page is loaded.
 
-See them online on CodePen (in alphabetical order):
-
-- [Bart Simpson](https://codepen.io/alvaromontoro/full/ZVZwPR)
-- [Homer Simpson](https://codepen.io/alvaromontoro/full/rPazmv)
-- [Itchy & Scratchy](https://codepen.io/alvaromontoro/full/ZwbYPv)
-- [Kang (alien)](https://codepen.io/alvaromontoro/full/omWOKR)
-- [Lisa Simpson](https://codepen.io/alvaromontoro/full/bzVjeK)
-- [Marge Simpson](https://codepen.io/alvaromontoro/full/ZwKpdR)
-- [Sideshow Bob](https://codepen.io/alvaromontoro/full/bzMZRy)
-- [Troy McClure](https://codepen.io/alvaromontoro/full/LqgMpx)
-
----
-
-Here are some other CSS Simpsons drawings:
-
-- [Homer Simpson drawn in CSS using only circles](https://codepen.io/alvaromontoro/full/BMdzxV) (mouse over to see all the circles)
-- [Homer Simpson drawn in CSS using only circles](https://codepen.io/alvaromontoro/full/JxMPqa) (animated)
-
-
-
----
+CSS and drawing is from : https://github.com/alvaromontoro/CSS-Simpsons
 
 **Disclaimer**
 
